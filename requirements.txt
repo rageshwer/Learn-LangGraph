@@ -1,0 +1,5 @@
+langgraph
+langchain
+langchain-huggingface
+langchain-groq
+python-dotenv
