@@ -55,7 +55,3 @@ def scorer_node(state : State2) -> dict:
     return {
         'score':int(response.content)
     }
-
-# Now the graph is constructed using edges, so very important.
-
-

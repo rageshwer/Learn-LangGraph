@@ -4,3 +4,8 @@ langchain-huggingface
 langchain-groq
 python-dotenv
 ipykernel
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+pypdf
